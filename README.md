@@ -18,13 +18,13 @@ Go to frontend folder as below
 Install nodejs
 
 cd frontend
-npm install
+1)npm install
 
-npm run build
+2)npm run build
 
 
 Go to backend-rust folder as below
 cd backend-rust
-cargo build --release
-cargo run --release
+1)cargo build --release
+2) cargo run --release
 
